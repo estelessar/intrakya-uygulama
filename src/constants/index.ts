@@ -1,3 +1,9 @@
+/**
+ * INTRAKYA Marketplace Constants
+ * Developed by: ADN Bilişim Teknolojileri
+ * Copyright © 2025 ADN Bilişim Teknolojileri. All rights reserved.
+ */
+
 // Colors - Türkiye pazarına uygun renk paleti
 export const COLORS = {
   primary: '#E53E3E', // Kırmızı - Türk bayrağından ilham
@@ -117,4 +123,12 @@ export const CARGO_COMPANIES = {
   MNG: 'mng',
   PTT: 'ptt',
   YURTICI: 'yurtici',
+} as const;
+
+// Application Information
+export const APP_INFO = {
+  DEVELOPER: 'ADN Bilişim Teknolojileri',
+  COPYRIGHT: '© 2025 ADN Bilişim Teknolojileri. All rights reserved.',
+  VERSION: '1.0.0',
+  NAME: 'INTRAKYA Marketplace',
 } as const;

@@ -1,3 +1,8 @@
+/**
+ * Register Screen - INTRAKYA Marketplace
+ * Developed by: ADN Bilişim Teknolojileri
+ * User registration with form validation
+ */
 import React, { useState } from 'react';
 import {
   View,

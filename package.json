@@ -1,6 +1,8 @@
 {
   "name": "intrakya",
   "version": "1.0.0",
+  "description": "INTRAKYA Marketplace Mobile Application - Developed by ADN Bilişim Teknolojileri",
+  "author": "ADN Bilişim Teknolojileri",
   "main": "index.ts",
   "scripts": {
     "start": "expo start",
