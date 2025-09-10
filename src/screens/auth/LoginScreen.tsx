@@ -1,3 +1,8 @@
+/**
+ * Login Screen - INTRAKYA Marketplace
+ * Developed by: ADN Bilişim Teknolojileri
+ * Secure authentication system with credential storage
+ */
 import React, { useState, useEffect } from 'react';
 import {
   View,
