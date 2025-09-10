@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "INTRAKYA",
+    "slug": "TurkiyeMarketplace",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/favicon.svg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/favicon.svg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.intrakya.marketplace"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/favicon.svg",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.intrakya.marketplace"
+    },
+    "web": {
+      "favicon": "./assets/favicon.svg"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "108af091-4831-47b7-ba23-11a80c00cc77"
+      }
+    },
+    "plugins": [
+      "expo-secure-store"
+    ],
+    "owner": "adnbilisim"
+  }
+}
